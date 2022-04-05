@@ -1,0 +1,15 @@
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/programm
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/programm.deps.json
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/programm.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/ref/programm.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/bin/Debug/net6.0/programm.pdb
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/ref/programm.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.pdb
+/Users/dmitrijfedorcuk/Documents/Учеба/Контрольная/test/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
